@@ -27,4 +27,4 @@ if gif does not appear
 https://giphy.com/gifs/0ozhOGTKa4a4E6LYcM
 
 ### Notes
-Some of the problems I had was to get pod init command to work, there were many error and more errors on top of the errors. I would say how I solved this was by pure chance. I just input pod init and dragged by project swift file after it so it knows where to create it. 
+Some of the problems I had was to get pod init command to work, there were many error and more errors on top of the errors. I would say how I solved this was by pure chance. I just input pod init and dragged the project swift file after it so it knows where to create it. 
